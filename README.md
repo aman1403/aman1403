@@ -4,19 +4,11 @@
 [![Website](https://img.shields.io/badge/Website-Up-brightgreen)](https://aman1403.github.io/Aman) 
 [![HitCount](http://hits.dwyl.com/aman1403/Aman.svg)](http://hits.dwyl.com/aman1403/Aman)
 
-<a href="aluthra1403@gmail.com">
-  <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
-</a>
-<a href="https://www.linkedin.com/in/aman1403/">
-  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
-</a>
-
 <br/>
 <br/>
 
+**About Me:**  
 Hi, I am Aman, a final year undergraduate student ever in the awe of wonders that 0s & 1s could create, passionate about open source and software development with proven experience in web app frameworks and a huge passion for working on backend development & cloud realted stuff. 
-
- <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/34706326/87228193-1febbe00-c3bd-11ea-9e73-7b094fda02b2.png" width="400px" />
 
 
 **Languages and Tools:**  
@@ -31,4 +23,14 @@ Hi, I am Aman, a final year undergraduate student ever in the awe of wonders tha
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+<br/>
 ![Aman's github stats](https://github-readme-stats.vercel.app/api?username=aman1403&theme=blue-green&show_icons=true)
+
+<br/>
+**Let's Connect:** 
+<a href="aluthra1403@gmail.com">
+  <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
+</a>
+<a href="https://www.linkedin.com/in/aman1403/">
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
+</a>
