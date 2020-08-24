@@ -5,13 +5,13 @@
 [![HitCount](http://hits.dwyl.com/aman1403/Aman.svg)](http://hits.dwyl.com/aman1403/Aman)
 
 <br/>
-<br/>
 
 **About Me:**  
+
 Hi, I am Aman, a final year undergraduate student ever in the awe of wonders that 0s & 1s could create, passionate about open source and software development with proven experience in web app frameworks and a huge passion for working on backend development & cloud realted stuff. 
 
 
-**Languages and Tools:**  
+**Languages and Tools Used:**  
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="25" src="https://w7.pngwing.com/pngs/493/735/png-transparent-node-js-javascript-express-js-mongodb-github-github-angle-text-logo.png"></code>
@@ -24,10 +24,13 @@ Hi, I am Aman, a final year undergraduate student ever in the awe of wonders tha
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 <br/>
+
 ![Aman's github stats](https://github-readme-stats.vercel.app/api?username=aman1403&theme=blue-green&show_icons=true)
 
 <br/>
+
 **Let's Connect:** 
+
 <a href="aluthra1403@gmail.com">
   <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
 </a>
