@@ -4,9 +4,8 @@
 [![Website](https://img.shields.io/badge/Website-Up-brightgreen)](https://aman1403.github.io/Aman) 
 [![HitCount](http://hits.dwyl.com/aman1403/Aman.svg)](http://hits.dwyl.com/aman1403/Aman)
 
-<br/>
 
-**About Me:**  
+**About Me:** 
 
 Hi, I am Aman, a final year undergraduate student ever in the awe of wonders that 0s & 1s could create, passionate about open source and software development with proven experience in web app frameworks and a huge passion for working on backend development & cloud realted stuff. 
 
@@ -25,15 +24,17 @@ Hi, I am Aman, a final year undergraduate student ever in the awe of wonders tha
 
 <br/>
 
+**Github Stats:**  
 ![Aman's github stats](https://github-readme-stats.vercel.app/api?username=aman1403&theme=blue-green&show_icons=true)
 
 <br/>
 
-**Let's Connect:** 
+**Let's Connect 👋:** 
 
-<a href="aluthra1403@gmail.com">
-  <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
-</a>
-<a href="https://www.linkedin.com/in/aman1403/">
-  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
-</a>
+<a href="https://in.linkedin.com/in/aman1403"><img align="left" alt="Aman| Linkedin" width="40px" src="https://i.ibb.co/yRHbQyd/linkedin-icon.png" /></a>
+ 
+<a href="https://github.com/aman1403"><img align="left" alt="Aman| GitHub" width="40px" src="https://i.ibb.co/FK6FGy7/github-icon.png" /></a>
+  
+<a href="mailto:aluthra1403@gmail.com"><img align="left" alt="Aman| Email" width="40px" src="https://i.ibb.co/dDsXKG4/email-icon.png" /></a>
+ 
+<a href="https://www.facebook.com/aman.luthra.353"><img align="left" alt="Aman| Facebook" width="40px" src="https://i.ibb.co/k4nCHtk/facebook-icon.png" /></a>
