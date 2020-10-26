@@ -7,7 +7,7 @@
 
 **About Me:** 
 
-Hi, I am Aman, a final year undergraduate student @ IIT Dharwad, ever in the awe of wonders that 0s & 1s could create, passionate about open source and software development with proven experience in web app frameworks and a huge passion for working on backend development & cloud realted stuff. 
+Hi, I am Aman, a final year undergraduate student @ IIT Dharwad, ever in the awe of wonders that 0s & 1s could create, passionate about open source and software development with proven experience in web app frameworks and a huge passion for working on backend development & cloud related stuff. 
 
 
 **Languages and Tools Used:**  
