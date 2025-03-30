@@ -36,5 +36,3 @@ Hi, I am Aman, an ambitious software developer, always in the awe of wonders tha
 <a href="https://github.com/aman1403"><img align="left" alt="Aman| GitHub" width="40px" src="https://i.ibb.co/FK6FGy7/github-icon.png" /></a>
   
 <a href="mailto:aluthra1403@gmail.com"><img align="left" alt="Aman| Email" width="40px" src="https://i.ibb.co/dDsXKG4/email-icon.png" /></a>
- 
-<a href="https://www.facebook.com/aman.luthra.353"><img align="left" alt="Aman| Facebook" width="40px" src="https://i.ibb.co/k4nCHtk/facebook-icon.png" /></a>
