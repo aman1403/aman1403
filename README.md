@@ -30,8 +30,6 @@ Hi, I am Aman, an ambitious software developer, always in the awe of wonders tha
 <br/>
 
 **Let's Connect 👋:** 
-
-<a href="https://in.linkedin.com/in/aman1403"><img align="left" alt="Aman| Linkedin" width="40px" src="https://i.ibb.co/yRHbQyd/linkedin-icon.png" /></a>
  
 <a href="https://github.com/aman1403"><img align="left" alt="Aman| GitHub" width="40px" src="https://i.ibb.co/FK6FGy7/github-icon.png" /></a>
   
